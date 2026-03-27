@@ -82,3 +82,55 @@ src/main/java/edu/eci/arsw/blueprints
    - Código fuente actualizado.
    - Swagger/OpenAPI habilitado.  
    - Clase `ApiResponse<T>` implementada.
+
+
+## Solución parcial 
+
+### 1. Buenas prácticas de API REST (Path)
+
+<div align="center">
+  <img src="img/uri.png" alt="alt text" width="500"/>
+</div>  
+
+### 2. 
+
+GET 
+<div align="center">
+  <img src="img/get.png" alt="alt text" width="500"/>
+</div> 
+
+GET 404
+<div align="center">
+  <img src="img/get404.png" alt="alt text" width="500"/>
+</div> 
+
+POST 
+
+201 
+<div align="center">
+  <img src="img/post.png" alt="alt text" width="500"/>
+</div>  
+
+400
+<div align="center">
+  <img src="img/post400.png" alt="alt text" width="500"/>
+</div> 
+
+PUT 
+
+202
+<div align="center">
+  <img src="img/PUT202.png" alt="alt text" width="500"/>
+</div> 
+
+### 3. Buenas prácticas de API REST (Respuesta estandar)
+
+<div align="center">
+  <img src="img/ApiResponse.png" alt="alt text" width="500"/>
+</div> 
+
+### 4. OpenAPI / Swagger (Bono)
+<div align="center">
+  <img src="img/documentacion.png" alt="alt text" width="500"/>
+</div>  
+
