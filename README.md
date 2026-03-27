@@ -120,7 +120,7 @@ PUT
 
 202
 <div align="center">
-  <img src="img/PUT202.png" alt="alt text" width="500"/>
+  <img src="img/put202.png" alt="alt text" width="500"/>
 </div> 
 
 ### 3. Buenas prácticas de API REST (Respuesta estandar)
